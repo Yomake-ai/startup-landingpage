@@ -1,5 +1,5 @@
 "use client";
-import Link from "@/components/Link";
+import Link from "../Link";
 import { useState } from "react";
 
 export default function PricingHomeOne() { 

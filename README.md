@@ -10,6 +10,7 @@ This is a standalone Vite + React + TypeScript landing page converted from the N
 - Animation support (AOS, GSAP)
 - Slick carousel for sliders
 - Independent deployment ready
+- **Standard Vite configuration** - uses relative imports (no custom path aliases)
 
 ## Getting Started
 
